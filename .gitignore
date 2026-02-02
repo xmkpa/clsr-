@@ -1,0 +1,12 @@
+﻿# 忽略所有训练日志文件夹
+runs/
+
+# 忽略所有压缩包
+*.tar.gz
+*.zip
+*.rar
+
+# 忽略 Python 缓存和临时文件
+__pycache__/
+*.pyc
+*.tfevents*runs/  *.tfevents*  *.tar.gz  *.zip  *.rar  __pycache__/  *.pyc  .DS_Store 
